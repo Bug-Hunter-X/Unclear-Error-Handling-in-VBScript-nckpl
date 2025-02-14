@@ -1,0 +1,1 @@
+This repository demonstrates a common issue in VBScript error handling.  The original code uses a generic error number, making debugging difficult. The solution provides more descriptive error messages for improved clarity and maintainability.
